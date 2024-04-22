@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="15.0" key="{EDD418A6-707E-4DB2-BD8B-04DBDD54F2B3}">
+	<children>
+		<child name="TP_Taumada" key="{8E0A4C84-D37A-42E9-81FF-F587D92D2FCA}" path="TP_Taumada\TP_Taumada.mds" />
+	</children>
+	<testItems key="{9E3B654D-D9E7-4596-9A0D-555A93B7F0BC}">
+		<children>
+			<testItem key="{8E0A4C84-D37A-42E9-81FF-F587D92D2FCA}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{09419B96-991A-4E3B-92D4-7E6F6D501C8A}" />
+	<analysis key="{0160E7EF-CFFC-4BB3-B302-DCDA3703B9E9}" />
+	<scc key="{C900492B-D218-429C-9AA0-264B7D78CA88}" name="Git Plugin">
+		<data />
+	</scc>
+</Root>
