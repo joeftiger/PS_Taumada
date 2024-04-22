@@ -1,0 +1,12 @@
+# Test Complete ignore files: https://support.smartbear.com/viewarticle/68002/
+
+# Ignore logs
+**/Log
+*.log
+
+# Ignore local settings files
+*.tcLS
+*.tcCfgExtender
+
+# Ignore backup files
+*.bak
