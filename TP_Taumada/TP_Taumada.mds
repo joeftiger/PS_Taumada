@@ -2,7 +2,6 @@
 <Root signature="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" version="15.0">
 	<children>
 		<child name="Script" key="{5DE89650-D5DC-478F-AA3B-A4F28B7A31FB}" type="Script" typeId="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" pluginName="Script" path="Script\Script.tcScript" />
-		<child name="KeywordTests" key="{C7FE39C6-D75D-4F5C-A394-C455AA639EF4}" type="Keyword Testing" typeId="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" pluginName="Keyword Testing" path="KeywordTests\KeywordTests.tcKDT" />
 		<child name="NameMapping" key="{96589ADB-5BC9-4736-90B0-61EF676A8BEE}" type="Name Mapping" typeId="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" pluginName="NameMapping" path="NameMapping\NameMapping.tcNM" />
 	</children>
 	<config language="{90F89436-9452-4F95-9882-6B5210079F13}" />
